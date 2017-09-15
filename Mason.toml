@@ -1,0 +1,6 @@
+[brick]
+name = "JamaLinearAlgebra"
+version = "0.1.0"
+author = "ct-clmsn"
+
+[dependencies]
